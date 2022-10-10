@@ -11,3 +11,6 @@ const listItem = famousSayings[0];
 console.log(famousSayings[2]);
 
 console.log(famousSayings[3]);
+
+
+let groceryList = ['bread', 'avocados', 'milk'];
