@@ -1,10 +1,13 @@
-const cards = ['diamond', 'spade', 'heart', 'club'];
+coconst hobbies = ['volleyball', 'ski', 'manger'];
 
-// Write your code below
-let currentCard;
+console.log(hobbies);
 
-while ( currentCard != 'spade') {
-  currentCard 
-  = cards[Math.floor(Math.random() * 4)];
-	console.log(currentCard);
-}
+
+
+const famousSayings = ['Fortune favors the brave.', 'A joke is a very serious thing.', 'Where there is love there is life.'];
+
+const listItem = famousSayings[0];
+
+console.log(famousSayings[2]);
+
+console.log(famousSayings[3]);
