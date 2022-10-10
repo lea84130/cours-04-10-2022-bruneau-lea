@@ -44,3 +44,11 @@ const chores = ['wash dishes', 'do laundry', 'take out trash'];
 chores.push('faire son lit', 'faire le menage');
 
 console.log(chores);
+
+
+
+const chores = ['wash dishes', 'do laundry', 'take out trash', 'cook dinner', 'mop floor'];
+
+chores.pop();
+
+console.log(chores)
